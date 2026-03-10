@@ -1,6 +1,6 @@
-import java.util.Deque;
 import java.util.ArrayDeque;
-public class UseCase1PalindromeCheckerApp {
+import java.util.Deque;
+public class Main {
     public static void main(String[] args) {
 
         // Original String
